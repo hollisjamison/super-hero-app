@@ -22,7 +22,7 @@ const Superheroes = () => {
 
   return (
     <div className="page">
-      <div className="title">Meet the Heroes v2</div>
+      <div className="title">Meet the Heroes v3</div>
       <div className="subtitle">
         A searchable list of all your favorite heroes
       </div>
